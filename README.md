@@ -79,7 +79,7 @@ node server.js
 (Add screenshot here)
 
 ### 🔹 Web Dashboard
-(Add screenshot here)
+![Web Dashboard](https://github.com/devesh-75/network-traffic-analysis/blob/main/Screenshot%202026-04-16%20113041.png?raw=true)
 
 ---
 
