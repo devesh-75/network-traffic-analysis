@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Network Monitor</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<h1>Network Activity Dashboard</h1>
+
+<div class="cards">
+  <div class="card">Total Traffic: <span id="total"></span></div>
+  <div class="card">Suspicious: <span id="suspicious"></span></div>
+</div>
+
+<canvas id="protocolChart"></canvas>
+
+<h2>Top IPs</h2>
+<ul id="ipList"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
