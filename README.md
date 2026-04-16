@@ -76,7 +76,7 @@ node server.js
 ## 📷 Output Screenshots
 
 ### 🔹 Capsa Dashboard
-(Add screenshot here)
+![Capsa Dashboard](https://github.com/devesh-75/network-traffic-analysis/blob/main/Screenshot%202026-03-28%20232337.png?raw=true)
 
 ### 🔹 Web Dashboard
 ![Web Dashboard](https://github.com/devesh-75/network-traffic-analysis/blob/main/Screenshot%202026-04-16%20113041.png?raw=true)
